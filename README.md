@@ -5,24 +5,23 @@
 ### Economics Related Scripts
 
 * Nash equilibrium calculation for normal games.
-
-![](https://github.com/jjgecon/Personal_coding_projects/tree/main/pics/nash.png "Nash")
+![altext](https://github.com/jjgecon/Personal_coding_projects/blob/main/pics/nash.png "Nash")
 
 * Expected Utility Reduction Triangle: the Allais Paradox.
-![alt text](https://github.com/jjgecon/Personal_coding_projects/tree/main/pics/prob_triangle.png "Allais Paradox")
+![alt text](https://github.com/jjgecon/Personal_coding_projects/blob/main/pics/prob_triangle.png "Allais Paradox")
 
 * Utility Indifference Curves Visualization.
-![alt text](https://github.com/jjgecon/Personal_coding_projects/tree/main/pics/utility.png "Utility Curves")
+![alt text](https://github.com/jjgecon/Personal_coding_projects/blob/main/pics/utility.png "Utility Curves")
 
 * OLS Visualization.
-![alt text](https://github.com/jjgecon/Personal_coding_projects/tree/main/pics/OLS.png "OLS")
+![alt text](https://github.com/jjgecon/Personal_coding_projects/blob/main/pics/OLS.png "OLS")
 
 ### Visualization Scripts
 
 * Boid Behavior Simulation.
-![alt text](https://github.com/jjgecon/Personal_coding_projects/tree/main/pics/boids.png "Boids")
+![alt text](https://github.com/jjgecon/Personal_coding_projects/blob/main/pics/boids.png "Boids")
 * Conway's Game of Life Visualization.
-![alt text](https://github.com/jjgecon/Personal_coding_projects/tree/main/pics/game_of_life.png "Game of Life")
+![alt text](https://github.com/jjgecon/Personal_coding_projects/blob/main/pics/game_of_life.png "Game of Life")
 
 ## [Does Gamer Slang Appeal to Gamers? A YouTube Title Analysis](https://github.com/jjgecon/Does-Gamer-Slang-Appeal-to-Gamers)
 
