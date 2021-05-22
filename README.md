@@ -5,7 +5,7 @@
 ### Economics Related Scripts
 
 * Nash equilibrium calculation for normal games.
-![altext](https://github.com/jjgecon/Personal_coding_projects/blob/main/pics/nash.png "Nash")
+![alt text](https://github.com/jjgecon/Personal_coding_projects/blob/main/pics/nash.png "Nash")
 
 * Expected Utility Reduction Triangle: the Allais Paradox.
 ![alt text](https://github.com/jjgecon/Personal_coding_projects/blob/main/pics/prob_triangle.png "Allais Paradox")
