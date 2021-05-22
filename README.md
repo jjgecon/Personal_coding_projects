@@ -6,7 +6,7 @@
 
 * Nash equilibrium calculation for normal games.
 
-![alt text](https://github.com/jjgecon/Personal_coding_projects/tree/main/pics/nash.png "Nash")
+![](https://github.com/jjgecon/Personal_coding_projects/tree/main/pics/nash.png "Nash")
 
 * Expected Utility Reduction Triangle: the Allais Paradox.
 ![alt text](https://github.com/jjgecon/Personal_coding_projects/tree/main/pics/prob_triangle.png "Allais Paradox")
