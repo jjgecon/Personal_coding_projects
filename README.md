@@ -30,10 +30,6 @@
 
 ![alt text](https://github.com/jjgecon/Personal_coding_projects/blob/main/pics/game_of_life.png "Game of Life")
 
-## [Does Gamer Slang Appeal to Gamers? A YouTube Title Analysis](https://github.com/jjgecon/Does-Gamer-Slang-Appeal-to-Gamers)
-
-A project to practice web-scrapping and text analysis with python and R.
-
 ## R Scripts:
 
 * OLS regressions for PISA 2015.
